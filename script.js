@@ -119,6 +119,10 @@ const notes = [
   {
     body: 'Anthony, I remember most clearly one conversation we had where you said "You write bugs, I catch them - we need each other." Indeed we do! Thanks for being a great teammate and best of luck wih your next adventure!',
     from: 'Ty'
+  },
+  {
+    body: 'Dude !! It’s was a surprise when I came to know that your are leaving. I am gonna miss my TT partner and our team gonna miss you.. all the best and I wishing you great success and happiness.',
+    from: 'Arun'
   }
 ];
 
