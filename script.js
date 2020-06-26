@@ -123,6 +123,10 @@ const notes = [
   {
     body: 'Dude !! It’s was a surprise when I came to know that your are leaving. I am gonna miss my TT partner and our team gonna miss you.. all the best and I wishing you great success and happiness.',
     from: 'Arun'
+  },
+  {
+    body: 'Best of luck in your new journey Anthony!',
+    from: 'Slava'
   }
 ];
 
